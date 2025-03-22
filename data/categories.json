@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": "official",
+      "name": "官方案例",
+      "description": "Manus Case 官方精选案例",
+      "icon": "star",
+      "order": 1
+    },
+    {
+      "id": "education",
+      "name": "教育案例",
+      "description": "医疗教育相关案例",
+      "icon": "book",
+      "order": 2
+    },
+    {
+      "id": "research",
+      "name": "调研报告",
+      "description": "医疗研究调研案例",
+      "icon": "file-text",
+      "order": 3
+    },
+    {
+      "id": "website",
+      "name": "网站开发",
+      "description": "医疗网站开发案例",
+      "icon": "globe",
+      "order": 4
+    },
+    {
+      "id": "automation",
+      "name": "自动化",
+      "description": "医疗自动化案例",
+      "icon": "settings",
+      "order": 5
+    }
+  ]
+} 

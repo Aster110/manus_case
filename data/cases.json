@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "id": "case-001",
+      "title": "Manus Case 标准手术流程展示",
+      "thumbnail": "/images/cases/case-001-thumb.jpg",
+      "thumbnailAlt": "Manus Case 手术流程缩略图",
+      "image": "/images/cases/case-001.jpg",
+      "imageAlt": "Manus Case 手术流程详细图",
+      "description": "这个案例展示了标准的 Manus Case 手术操作流程，包含了术前准备、手术过程和术后护理的完整记录。",
+      "link": "https://example.com/case-001",
+      "category": "official",
+      "createdAt": "2024-03-15T08:00:00Z",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "case-002",
+      "title": "Manus Case 教学应用实践",
+      "thumbnail": "/images/cases/case-002-thumb.jpg",
+      "thumbnailAlt": "Manus Case 教学应用缩略图",
+      "image": "/images/cases/case-002.jpg",
+      "imageAlt": "Manus Case 教学应用详细图",
+      "description": "本案例记录了医学院校如何将 Manus Case 应用于临床教学实践中，提高学生的实践能力。",
+      "link": "https://example.com/case-002",
+      "category": "education",
+      "createdAt": "2024-03-14T10:00:00Z",
+      "featured": true,
+      "order": 2
+    }
+  ]
+} 
